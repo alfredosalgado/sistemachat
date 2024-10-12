@@ -34,6 +34,9 @@ body {
   gap: 10px;
   align-items: center;
 }
+.status1:hover {
+  cursor: pointer;
+}
 .iconos {
   display: flex;
   justify-content: flex-end;
@@ -73,6 +76,7 @@ body {
 
 .button:hover {
   background-color: #CDC3E6;
+  cursor: pointer;
 }
 
 /* Contactos lista */
